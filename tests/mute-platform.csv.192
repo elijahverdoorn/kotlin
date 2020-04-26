@@ -247,3 +247,5 @@ org.jetbrains.kotlin.idea.decompiler.stubBuilder.BuiltInDecompilerTest.testBuilt
 org.jetbrains.kotlin.idea.intentions.IntentionTestGenerated.LoopToCallChain.Count.testAllFilesPresentInCount, Massive mute
 org.jetbrains.kotlin.j2k.JavaToKotlinConverterSingleFileTestGenerated.ToKotlinClasses.testLibraryFunctions, Massive mute
 org.jetbrains.kotlin.checkers.PsiCheckerTestGenerated.Regression.testJavaStyleClassLiteralInAnnotationArguments, Massive mute
+org.jetbrains.kotlin.gradle.NewMultiplatformProjectImportingTest.testAndroidDependencyOnMPP, Massive mute
+org.jetbrains.kotlin.gradle.NewMultiplatformProjectImportingTest.testDetectAndroidSources, Massive mute
